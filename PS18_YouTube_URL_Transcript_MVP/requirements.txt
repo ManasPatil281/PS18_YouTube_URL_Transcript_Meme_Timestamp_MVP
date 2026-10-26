@@ -1,0 +1,7 @@
+streamlit>=1.40.0
+groq>=0.11.0
+python-dotenv>=1.0.1
+youtube-transcript-api>=1.2.0
+langgraph>=0.2.60
+langchain-core>=0.3.28
+langchain-groq>=0.2.1
